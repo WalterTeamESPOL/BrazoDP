@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rtde_config>
+
+    <recipe key="state">
+        <field
+            name="timestamp"
+            type="DOUBLE"
+        />
+    </recipe>
+
+    <recipe key="setp">
+
+        <field
+            name="input_double_register_24"
+            type="DOUBLE"
+        />
+
+        <field
+            name="input_double_register_25"
+            type="DOUBLE"
+        />
+
+        <field
+            name="input_double_register_26"
+            type="DOUBLE"
+        />
+
+        <field
+            name="input_double_register_27"
+            type="DOUBLE"
+        />
+
+        <field
+            name="input_double_register_28"
+            type="DOUBLE"
+        />
+
+        <field
+            name="input_double_register_29"
+            type="DOUBLE"
+        />
+
+    </recipe>
+
+</rtde_config>
